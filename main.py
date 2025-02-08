@@ -25,9 +25,9 @@ food_chain = food_prompt | gemini_model
 
 import streamlit as st
 
-st.header("Food Suggestion App - Abhishek")
+st.header("🍽️ Food Suggestion App - Abhishek")
 
-st.subheader("Suggest food which is famous in city along with places to eat")
+st.subheader("Suggest food which is famous in city along with places to eat 🍜")
 
 city = st.text_input("Enter city Name")
 
